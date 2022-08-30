@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f6421ff-db11-4cb6-93df-c98a995d869a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Session_Cookie/spring-shopping-cart" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_Cookie/spring-shopping-cart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jquery-ajax/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jquery-ajax/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/java/com/example/view_web/config/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/java/com/example/view_web/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/java/com/example/view_web/controller/CountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/java/com/example/view_web/model/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/webapp/WEB-INF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../view_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webservice-restful/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webservice-restful/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DmjS0DEMBTe1Ss42o6ycgRRf1g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/module_4/CaseStudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "9f031d2def7f3ec5c5823c25b1c80680"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\module_4\SpringBoot_Demo\src\main\resources\static" />
+      <recent name="D:\module_4\SpringBoot_Demo\src\main\java\com\example\springboot_demo\config" />
+      <recent name="D:\module_4\SpringBoot_Demo\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\module_4\SpringBoot_Demo\src\main\resources\static\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springboot_demo.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_Demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot_demo.SpringBootDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f6421ff-db11-4cb6-93df-c98a995d869a" name="Changes" comment="" />
+      <created>1661311150449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661311150449</updated>
+      <workItem from="1661311153224" duration="8135000" />
+      <workItem from="1661390581336" duration="4291000" />
+      <workItem from="1661443146875" duration="606000" />
+      <workItem from="1661480450210" duration="1607000" />
+      <workItem from="1661489461707" duration="91000" />
+      <workItem from="1661489578576" duration="10303000" />
+      <workItem from="1661602334277" duration="8226000" />
+      <workItem from="1661755952007" duration="5446000" />
+      <workItem from="1661822434754" duration="86000" />
+      <workItem from="1661822543314" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
